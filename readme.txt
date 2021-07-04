@@ -5,3 +5,6 @@ Execute  example_infP.m  for executing the algorithm.
         
 The BBS toolbox is already compiled for linux systems.
 For other OS: run compile.m in the folder BBS.
+
+The implementation of Bregler's method, discussed in the Tutorial, is
+available in the Bregler directory, along with the dataset.
